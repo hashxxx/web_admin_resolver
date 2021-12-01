@@ -6,7 +6,7 @@
     1- Launch the executor
     2- Set the valid URL
     3- Wait...
-    4- Enjoy!
+    4- Enjoy! xoxo
 
 # Screenshot 
 ![screen1](https://cdn.discordapp.com/attachments/736490859679186966/915578814715793408/unknown.png)
