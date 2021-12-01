@@ -1,0 +1,9 @@
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\bin\Debug\admin_page_resolver.exe.config
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\bin\Debug\admin_page_resolver.exe
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\bin\Debug\admin_page_resolver.pdb
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.Properties.Resources.resources
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.csproj.GenerateResource.cache
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.csproj.CoreCompileInputs.cache
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.exe
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.pdb
+C:\Users\ltks6\source\repos\admin_page_resolver\admin_page_resolver\obj\Debug\admin_page_resolver.csproj.AssemblyReference.cache
